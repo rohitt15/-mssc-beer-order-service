@@ -1,4 +1,4 @@
-package com.developer.mssc.beer.order;
+package com.developer.mssc.beer.order.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
